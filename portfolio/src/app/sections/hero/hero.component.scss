@@ -1,0 +1,174 @@
+.hero_Section {
+  width: 2015px;
+  height: 701px;
+  top: 914px;
+  left: 149px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.logo {
+  width: 106px;
+  height: 206px;
+  top: 134px;
+  left: 20px;
+  gap: 0px;
+  border-radius: 5px 0px 0px 0px;
+  border: 1px solid #9747ff;
+  opacity: 0px;
+  > .default_Logo {
+    width: 66px;
+    height: 73px;
+    top: 20px;
+    left: 20px;
+    gap: 0px;
+    opacity: 0px;
+    > .logo_Icon {
+      width: 56px;
+      height: 38px;
+      left: 5px;
+      gap: 0px;
+      opacity: 0px;
+      > .vector_29 {
+        width: 52px;
+        height: 32px;
+        top: 3px;
+        left: 2px;
+        gap: 0px;
+        border: 4px 0px 0px 0px;
+        opacity: 0px;
+        border: 4px solid #89bcd9;
+      }
+      > .text_Closed {
+        width: 10px;
+        height: 19px;
+        top: 8px;
+        left: 40px;
+        gap: 0px;
+        opacity: 0px;
+      }
+      > .text_Open {
+        width: 10px;
+        height: 19px;
+        top: 8px;
+        left: 6px;
+        gap: 0px;
+        opacity: 0px;
+      }
+    }
+    > .frame_533 {
+      width: 66px;
+      height: 35px;
+      top: 38px;
+      gap: 0px;
+      opacity: 0px;
+      > .schwenk {
+        width: 65px;
+        height: 16px;
+        left: 1px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Anta;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 19.2px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+      }
+      > .developer {
+        width: 66px;
+        height: 19px;
+        top: 16px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Josefin Sans;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 19.2px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+      }
+    }
+  }
+
+  .hover_Logo {
+    &:hover {
+      width: 66px;
+      height: 73px;
+      top: 105px;
+      left: 20px;
+      gap: 0px;
+      opacity: 0px;
+      > .logo_Icon {
+        width: 56px;
+        height: 38px;
+        left: 5px;
+        gap: 0px;
+        opacity: 0px;
+        > .vector_29 {
+          width: 58px;
+          height: 32px;
+          top: 3px;
+          left: -2px;
+          gap: 0px;
+          border: 4px 0px 0px 0px;
+          opacity: 0px;
+          border: 4px solid #89bcd9;
+        }
+        > .text_Closed {
+          width: 10px;
+          height: 19px;
+          top: 8px;
+          left: 40px;
+          gap: 0px;
+          opacity: 0px;
+        }
+        > .text_Open {
+          width: 10px;
+          height: 19px;
+          top: 8px;
+          left: 6px;
+          gap: 0px;
+          opacity: 0px;
+        }
+      }
+      > .frame_533 {
+        width: 66px;
+        height: 35px;
+        top: 38px;
+        gap: 0px;
+        opacity: 0px;
+        > .schwenk {
+          width: 65px;
+          height: 16px;
+          left: 1px;
+          gap: 0px;
+          opacity: 0px;
+          font-family: Anta;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 19.2px;
+          text-align: left;
+          text-underline-position: from-font;
+          text-decoration-skip-ink: none;
+        }
+        > .developer {
+          width: 66px;
+          height: 19px;
+          top: 16px;
+          gap: 0px;
+          opacity: 0px;
+          font-family: Josefin Sans;
+          font-size: 16px;
+          font-weight: 300;
+          line-height: 19.2px;
+          text-align: left;
+          text-underline-position: from-font;
+          text-decoration-skip-ink: none;
+        }
+      }
+    }
+  }
+}

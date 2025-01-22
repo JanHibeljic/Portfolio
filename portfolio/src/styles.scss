@@ -55,3 +55,69 @@ main {
   src: url("/portfolio/src/assets/font/josefin-sans-v32-latin-700.woff2")
     format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+.fontRobotoMono {
+  font-family: "Roboto Mono";
+}
+
+/* roboto-mono-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/portfolio/src/assets/font/roboto-mono-v23-latin-regular.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+// Version5 START --
+.Primary_Dark_Grey {
+  color: #262e34;
+}
+
+.Primary_Blue {
+  color: #89bcd9;
+}
+
+.Creme_White {
+  color: #f8f5ec;
+}
+
+.Secondary_Light_Grey {
+  color: #262e341f;
+}
+
+.Error_Color {
+  color: #e44c36;
+}
+
+.Done_Color {
+  color: #97e163;
+}
+// END -- Version5
+
+// Other Colors START --
+.Midnight_Green {
+  color: #042639;
+}
+
+.Dark_BlueGreen {
+  color: #0a383f;
+}
+
+.Koralm_Orange {
+  color: #f28a62;
+}
+
+.Apricot_Orange {
+  color: #f9cb71;
+}
+
+.Eggshell_White {
+  color: #f8f5ec;
+}
+
+.White {
+  color: #ffffff;
+}
+// END -- Other Colors
