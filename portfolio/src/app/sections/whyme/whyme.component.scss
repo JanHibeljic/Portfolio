@@ -1,0 +1,101 @@
+.why_Me_Section {
+  width: Fixed (860px) px;
+  height: Hug (307px) px;
+  top: 992px;
+  left: 290px;
+  gap: 80px;
+  opacity: 0px;
+  > .headline {
+    width: 860px;
+    height: 51px;
+    gap: 0px;
+    opacity: 0px;
+
+    //styleName: Version 5 Web/H2 Section name Web;
+    font-family: Anta;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+    background: #89bcd9;
+  }
+
+  .why_Me_Information {
+    width: Fill (860px) px;
+    height: Hug (176px) px;
+    gap: 0px;
+    justify-content: space-between; // display: flex; fehlt irgendwo - parent?
+    opacity: 0px;
+    > .location_Web {
+      //jump to  -> need to work on
+      width: 429px;
+      height: 57px;
+      gap: 10px;
+      opacity: 0px;
+      > .location {
+        width: 527px;
+        height: 65px;
+        left: -6px;
+        gap: 0px;
+        opacity: 0px;
+      }
+    }
+
+    .text_And_Button {
+      width: Fixed (379px) px;
+      height: Hug (176px) px;
+      gap: 24px;
+      opacity: 0px;
+      > .text_About_Me {
+        width: 379px;
+        height: 104px;
+        gap: 0px;
+        opacity: 0px;
+
+        //styleName: Version 5 Web/P;
+        font-family: Josefin Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21.6px;
+        text-align: left;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+
+        background: #f8f5ec;
+      }
+
+      .button_Secondary_Web {
+        //interactions needs to be worked on
+        width: Hug (134px) px;
+        height: Fixed (48px) px;
+        padding: 13px 30px 13px 30px;
+        gap: 10px;
+        border-radius: 30px 0px 0px 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+
+        border: 1px solid #89bcd9;
+        > .lets_Talk {
+          width: 74px;
+          height: 22px;
+          gap: 0px;
+          opacity: 0px;
+
+          //styleName: Version 5 Web/H4 Button text;
+          font-family: Josefin Sans;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 21.6px;
+          text-align: left;
+          text-underline-position: from-font;
+          text-decoration-skip-ink: none;
+
+          background: #89bcd9;
+        }
+      }
+    }
+  }
+}
