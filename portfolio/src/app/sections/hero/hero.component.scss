@@ -1,8 +1,8 @@
 .hero_Section {
-  width: 2015px;
-  height: 701px;
-  top: 914px;
-  left: 149px;
+  width: 1214px;
+  height: 685px;
+  top: 79px;
+  left: 114px;
   gap: 0px;
   opacity: 0px;
 }
@@ -169,6 +169,175 @@
           text-decoration-skip-ink: none;
         }
       }
+    }
+  }
+}
+
+.pic_BG_Shape {
+  width: 616px;
+  height: 690px;
+  top: -5px;
+  left: 4px;
+  gap: 0px;
+  opacity: 0px;
+  > .subject_1 {
+    width: 500px;
+    height: 693px;
+    top: -2px;
+    left: 59px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .subtract {
+    width: [object Object]px;
+    height: [object Object]px;
+    top: -38px;
+    left: 39px;
+    gap: 0px;
+    opacity: 0px;
+    > .pic {
+      width: 447px;
+      height: 688px;
+      top: 25px;
+      left: 63px;
+      gap: 0px;
+      opacity: 0px;
+    }
+  }
+  .bg_Shape {
+    width: 600px;
+    height: 619px;
+    top: 76px;
+    left: 18px;
+    gap: 0px;
+    opacity: 0px;
+    > .bg_Shape_For_Photo {
+      width: 580.28px;
+      height: 609.91px;
+      left: 2px;
+      gap: 0px;
+      opacity: 0px;
+      background: #89bcd9;
+    }
+  }
+}
+
+.name {
+  width: 610px;
+  height: 81px;
+  top: 230px;
+  left: 607px;
+  gap: 0px;
+  opacity: 0px;
+  //styleName: Version 5 Web/H1 Name Web;
+  font-family: Anta;
+  font-size: 88px;
+  font-weight: 400;
+  line-height: 105.6px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  background: #f8f5ec;
+}
+
+.frontend_Developer {
+  width: 501px;
+  height: 53px;
+  top: 347px;
+  left: 662px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Josefin Sans;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 48px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  background: #f8f5ec;
+}
+
+.arrow_down {
+  width: 38px;
+  height: 89px;
+  top: 540px;
+  left: 906px;
+  gap: 0px;
+  opacity: 0px;
+  > .rectangle_156 {
+    width: 38px;
+    height: 89px;
+    gap: 0px;
+    border-radius: 30px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #89bcd9;
+  }
+  .arrow_Up {
+    width: 22px;
+    height: 50px;
+    top: 70px;
+    left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    //angle: 180 deg;
+    > .arrow_Up_Vector {
+      width: 22px;
+      height: 50px;
+      gap: 0px;
+      opacity: 0px;
+      //angle: -0 deg;
+      background: #89bcd9;
+    }
+  }
+}
+
+.social_Media {
+  width: Hug (30px) px;
+  height: Hug (121.26px) px;
+  left: 1182px;
+  gap: 16px;
+  opacity: 0px;
+  > .email_Button {
+    width: 30px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    > .email_Button_Vector {
+      width: 30px;
+      height: 30px;
+      gap: 0px;
+      border: 1px 0px 0px 0px;
+      opacity: 0px;
+      border: 1px solid #89bcd9;
+    }
+  }
+  .github_Button {
+    width: 30px;
+    height: 29.26px;
+    gap: 0px;
+    opacity: 0px;
+    > .github_Button_Vector {
+      width: 30px;
+      height: 29.26px;
+      gap: 0px;
+      border: 1px 0px 0px 0px;
+      opacity: 0px;
+      border: 1px solid #89bcd9;
+    }
+  }
+  .linkedin_Button {
+    width: 30px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    > .linkedin_Button_Vector {
+      width: 30px;
+      height: 30px;
+      gap: 0px;
+      border: 1px 0px 0px 0px;
+      opacity: 0px;
+      border: 1px solid #89bcd9;
     }
   }
 }
