@@ -1,4 +1,5 @@
 .logo_Dark_Mob {
+  //with interaction!! -> needs to be worked on
   width: 58px;
   height: 72px;
   gap: 0px;
@@ -76,7 +77,6 @@
           gap: 0px;
           opacity: 0px;
           //removed:left: 1px;
-
           font-family: Anta;
           font-size: 14px; //from:font-size: 16px;
           font-weight: 400;
@@ -101,5 +101,102 @@
         }
       }
     }
+  }
+}
+
+.menu_System {
+  width: 677px;
+  height: 26px;
+  gap: 0px;
+  opacity: 0px;
+  > .menu_Button_Contact {
+    //interactions needs to be worked on
+    width: Fixed (100px) px;
+    height: Hug (31px) px;
+    left: 576px;
+    gap: 32px;
+    opacity: 0px;
+  }
+
+  .menu_Button_Projects {
+    //interactions needs to be worked on
+    width: Fixed (100px) px;
+    height: Hug (31px) px;
+    left: 384px;
+    gap: 32px;
+    opacity: 0px;
+  }
+
+  .menu_Button_Skills {
+    //interactions needs to be worked on
+    width: Fixed (100px) px;
+    height: Hug (31px) px;
+    left: 192px;
+    gap: 32px;
+    opacity: 0px;
+  }
+
+  .menu_Button_Whyme {
+    //interactions needs to be worked on
+    width: Fixed (100px) px;
+    height: Hug (31px) px;
+    gap: 32px;
+    opacity: 0px;
+  }
+}
+
+.change_Language_Web {
+  width: 92px;
+  height: 31px;
+  gap: 0px;
+  opacity: 0px;
+  > .change_Language_EN {
+    width: 27px;
+    height: 24px;
+    top: 6px;
+    left: 55px;
+    gap: 0px;
+    opacity: 0px;
+
+    //styleName: Version 5 Web/H4 Button text;
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+    background: #f8f5ec;
+  }
+  > .change_Language_DE {
+    width: 27px;
+    height: 24px;
+    top: 6px;
+    left: 14px;
+    gap: 0px;
+    opacity: 0px;
+    //styleName: Version 5 Web/H4 Button text;
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+    background: #262e34;
+  }
+
+  .ellipse_24 {
+    width: 36.8px;
+    height: 24px;
+    top: 4.38px;
+    left: 51px;
+    gap: 0px;
+    opacity: 0px;
+    //angle: 2.14 deg; -> to work on
+
+    background: #262e341f;
   }
 }
