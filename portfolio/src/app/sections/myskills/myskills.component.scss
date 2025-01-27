@@ -1,0 +1,385 @@
+.my_Skill_Section {
+  width: Fixed (869px) px;
+  height: Hug (556px) px;
+  top: 1403px;
+  left: 286px;
+  gap: 80px;
+  opacity: 0px;
+  > .my_Skills_Headline {
+    width: 869px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+
+    //styleName: Version 5 Web/H2 Section name Web;
+    font-family: Anta;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+    background: #89bcd9;
+  }
+
+  .my_Skills_Inhalt {
+    width: Fill (869px) px;
+    height: Hug (404px) px;
+    gap: 79px;
+    opacity: 0px;
+    > .skill_set {
+      width: Fixed (409px) px;
+      height: Hug (404px) px;
+      gap: 40px;
+      opacity: 0px;
+      > .skill_Icon_Angular {
+        width: Hug (66px) px;
+        height: Fixed (100px) px;
+        gap: 10px;
+        opacity: 0px;
+        > .icons {
+          width: Hug (55.8px) px;
+          height: Fixed (60px) px;
+          gap: 10px;
+          opacity: 0px;
+          > .icons_Angular {
+            width: 55.8px;
+            height: 60px;
+            gap: 0px;
+            opacity: 0px;
+            background: #89bcd9;
+          }
+        }
+        .angular_Name {
+          width: 66px;
+          height: 22px;
+          gap: 0px;
+          opacity: 0px;
+
+          //styleName: Version 5 Web/P;
+          font-family: Josefin Sans;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 21.6px;
+          text-align: left;
+          text-underline-position: from-font;
+          text-decoration-skip-ink: none;
+
+          background: #89bcd9;
+        }
+
+        .skill_Icon_TypeScript {
+          width: Hug (85px) px;
+          height: Fixed (100px) px;
+          gap: 10px;
+          opacity: 0px;
+
+          > .icons {
+            width: Hug (59.95px) px;
+            height: Fixed (60px) px;
+            gap: 10px;
+            opacity: 0px;
+
+            > .icons_TypeScript_Vector {
+              width: 59.95px;
+              height: 60px;
+              gap: 0px;
+              opacity: 0px;
+              background: #89bcd9;
+            }
+          }
+
+          .typeScript_Name {
+            width: 85px;
+            height: 22px;
+            gap: 0px;
+            opacity: 0px;
+
+            //styleName: Version 5 Web/P;
+            //styleName: Version 5 Web/P;
+            font-family: Josefin Sans;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 21.6px;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+
+            background: #89bcd9;
+          }
+        }
+
+        .skill_Icon_JavaScript {
+          width: Hug (84px) px;
+          height: Fixed (100px) px;
+          gap: 10px;
+          opacity: 0px;
+
+          > .icons {
+            width: Hug (60px) px;
+            height: Fixed (60px) px;
+            gap: 10px;
+            opacity: 0px;
+
+            > .icons_JavaScript {
+              width: 59.95px;
+              height: 60px;
+              gap: 0px;
+              opacity: 0px;
+              background: #89bcd9;
+            }
+          }
+
+          .javaScript_Name {
+            width: 84px;
+            height: 22px;
+            gap: 0px;
+            opacity: 0px;
+
+            //styleName: Version 5 Web/P;
+            font-family: Josefin Sans;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 21.6px;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+
+            background: #89bcd9;
+          }
+        }
+
+        .skill_Icon_HTML {
+          width: Hug (54px) px;
+          height: Fixed (100px) px;
+          gap: 10px;
+          opacity: 0px;
+
+          > .icons {
+            width: Hug (54px) px;
+            height: Fixed (60px) px;
+            gap: 10px;
+            opacity: 0px;
+
+            > .icons_HTML {
+              width: 54px;
+              height: 60px;
+              gap: 0px;
+              opacity: 0px;
+
+              background: #89bcd9;
+            }
+          }
+
+          .html_Name {
+            width: 53px;
+            height: 22px;
+            gap: 0px;
+            opacity: 0px;
+
+            //styleName: Version 5 Web/P;
+            font-family: Josefin Sans;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 21.6px;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+
+            background: #89bcd9;
+          }
+        }
+
+        .skill_Icon_CSS {
+          width: Fixed (70px) px;
+          height: Fixed (100px) px;
+          gap: 10px;
+          opacity: 0px;
+
+          > .icons {
+            //hier .icons nicht im design ???
+            width: Hug (54px) px;
+            height: Fixed (60px) px;
+            gap: 10px;
+            opacity: 0px;
+
+            > .icons_CSS_Vector {
+              width: 54px;
+              height: 60px;
+              gap: 0px;
+              opacity: 0px;
+
+              background: #89bcd9;
+            }
+          }
+          .css_Name {
+            width: 34px;
+            height: 22px;
+            gap: 0px;
+            opacity: 0px;
+
+            //styleName: Version 5 Web/P;
+            font-family: Josefin Sans;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 21.6px;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+
+            background: #89bcd9;
+          }
+        }
+
+        .skill_Icon_Restapi {
+          width: Fixed (80px) px;
+          height: Fixed (100px) px;
+          gap: 10px;
+          opacity: 0px;
+
+          > .icons_Api {
+            width: 56px;
+            height: 60px;
+            gap: 0px;
+            opacity: 0px;
+            background: #89bcd9;
+
+            > .icons_Api_Vektor1 {
+              width: 5.14px;
+              height: 6.51px;
+              top: 31.46px;
+              left: 40.04px;
+              gap: 0px;
+              opacity: 0px;
+
+              background: #89bcd9;
+            }
+
+            .icons_Api_Vektor2 {
+              width: 3.46px;
+              height: 6.03px;
+              top: 34.68px;
+              left: 27.36px;
+              gap: 0px;
+              opacity: 0px;
+
+              background: #89bcd9;
+            }
+
+            .icons_Api_Vektor3 {
+              width: 56px;
+              height: 60px;
+              top: 8px;
+              left: 12px;
+              gap: 0px;
+              opacity: 0px;
+
+              background: #89bcd9;
+            }
+          }
+
+          .restapi_Name {
+            width: 69px;
+            height: 22px;
+            gap: 0px;
+            opacity: 0px;
+
+            //styleName: Version 5 Web/P;
+            font-family: Josefin Sans;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 21.6px;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+
+            background: #89bcd9;
+          }
+        }
+
+        .skill_Icon_Firebase {
+          width: Fixed (76px) px;
+          height: Fixed (100px) px;
+          gap: 10px;
+          opacity: 0px;
+
+          > .icons {
+            width: Hug (43.63px) px;
+            height: Fixed (60px) px;
+            gap: 10px;
+            opacity: 0px;
+
+            > .icons_Firebase {
+              width: 43.63px;
+              height: 60px;
+              gap: 0px;
+              opacity: 0px;
+
+              background: #89bcd9;
+            }
+          }
+
+          .firebase_Name {
+            width: 69px;
+            height: 22px;
+            gap: 0px;
+            opacity: 0px;
+
+            //styleName: Version 5 Web/P;
+            font-family: Josefin Sans;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 21.6px;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+
+            background: #89bcd9;
+          }
+        }
+
+        .skill_Icon_GIT {
+          width: Fixed (76px) px;
+          height: Fixed (100px) px;
+          gap: 10px;
+          opacity: 0px;
+
+          > .icons {
+            width: Hug (59.99px) px;
+            height: Fixed (60px) px;
+            gap: 10px;
+            opacity: 0px;
+
+            > .icons_GIT {
+              width: 59.99px;
+              height: 60px;
+              gap: 0px;
+              opacity: 0px;
+
+              background: #89bcd9;
+            }
+          }
+
+          .git_Name {
+            width: 30px;
+            height: 22px;
+            gap: 0px;
+            opacity: 0px;
+
+            //styleName: Version 5 Web/P;
+            font-family: Josefin Sans;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 21.6px;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+
+            background: #89bcd9;
+          }
+        }
+      }
+    }
+  }
+}
